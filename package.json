@@ -1,0 +1,18 @@
+{
+  "name": "mypracticenpm",
+  "version": "1.0.0",
+  "description": "My practice NPM for Day 26 of CTAC(formerly WIN) program",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "JVo",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.2"
+  }
+}
+
+
